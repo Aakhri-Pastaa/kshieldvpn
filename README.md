@@ -4,6 +4,7 @@
 
 > [!NOTE]
 > **Status: final-year BSc project, submitted April 2024, archived and not maintained.** It is a scoped academic prototype, not a production VPN — see [Status and limitations](#status-and-limitations) for the known security gaps.
+>
 > Built by Kunal Patil, with AI assistance on specific parts. See [AI disclosure](#ai-disclosure).
 
 ## What it does
